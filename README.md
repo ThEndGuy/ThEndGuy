@@ -5,3 +5,4 @@ You can find me on [YouTube](https://www.youtube.com/c/ThEndGuy)
 
 If you want to talk DM me on [Twitter](https://twitter.com/ThEndGuy)
 
+I can only code in python.. for now atleast
